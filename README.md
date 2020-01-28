@@ -1,6 +1,6 @@
 ## Deep Learning & Art: Neural Style Transfer
 
-In this project we will implement a Neural Style Transfer algorithm and generate novel artistic images using the algorithm. 
+This project is an implementation of a Neural Style Transfer algorithm. Later we generate novel artistic images using the algorithm.
 
 ### Problem Statement
 Neural Style Transfer (NST) is one of the most fun techniques in deep learning. It merges two images, namely, a "content" image (C) and a "style" image (S), to create a "generated" image (G). The generated image G combines the "content" of the image C with the "style" of image S.
